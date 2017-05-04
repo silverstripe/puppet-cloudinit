@@ -4,9 +4,9 @@
   "author": "SilverStripe Ltd",
   "license": "BSD-3-Clause",
   "summary": "Manage cloud-init templates via Puppet",
-  "source": "https://github.com/silverstripe/puppet-cloudinit",
+  "source": "https://github.com/silverstripeltd/puppet-cloudinit",
   "dependencies": [],
-  "project_page": "https://github.com/silverstripe/puppet-cloudinit",
+  "project_page": "https://github.com/silverstripeltd/puppet-cloudinit",
   "operatingsystem_support": [
     {
       "operatingsystem": "Debian",
